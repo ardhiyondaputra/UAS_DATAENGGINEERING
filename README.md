@@ -9,7 +9,7 @@
 | Ramizah Budi C.P   | 234311049      | Project Manager     |
 | Satria Bagus A.I   | 234311054       | Data Analyst     |
 # Deskripsi Proyek 
-Proyek ini dikembangkan untuk menganalisis 
+Proyek ini dikembangkan untuk menganalisis hubungan antara timbulan sampah, pencemaran lingkungan, dan jumlah penduduk di Indonesia dengan menggunakan teknik scrapping. Kemudian dilakukan pembersihan/transform, setelah itu di load data ke PostGreSQL. Dengan tujuan untuk mengetahui hubungan antar ketiga data.
 # Manfaat Data / Use Case
 - Tujuan Proyek : Proyek ini bertujuan untuk menganalisis hubungan antara jumlah penduduk, timbulan sampah, dan pencemaran lingkungan di Indonesia dengan membangun pipeline data yang mengotomatisasi proses pengumpulan, pengolahan, dan visualisasi data dari berbagai sumber.
 - Manfaat : Manfaat dari proyek ini antara lain memberikan wawasan berbasis data untuk mendukung kebijakan lingkungan, menjadi referensi bagi penelitian lanjutan di bidang kependudukan dan lingkungan, meningkatkan kesadaran masyarakat terhadap dampak pertumbuhan penduduk, serta memberikan pengalaman praktis dalam penerapan teknik data engineering untuk pengolahan data lingkungan.
