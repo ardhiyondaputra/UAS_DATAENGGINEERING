@@ -71,6 +71,6 @@ Dalam proyek analisis Analisis Hubungan antara Timbulan Sampah, Pencemaran Lingk
 - Machine Learning :
   - Menggunakan model regresi linear
 # Link Proyek :
-- ETL Pipeline : https://colab.research.google.com/drive/1gqmvhXSpyrplbOHcPbq5joVDd5cpIkcX
-- Machine Learning :
-- Streamlit : 
+- ETL Pipeline : https://github.com/ardhiyondaputra/UAS_DATAENGGINEERING/blob/main/UAS_DATA_ENGGINEER_1.ipynb
+- Machine Learning : https://github.com/ardhiyondaputra/UAS_DATAENGGINEERING/blob/main/ML.ipynb
+- Streamlit : https://github.com/ardhiyondaputra/UAS_DATAENGGINEERING/blob/main/streamlit_app.py
